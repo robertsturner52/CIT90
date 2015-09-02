@@ -2,7 +2,9 @@ package main
 
 import "fmt"
 
+var name string
 func main() {
-    name := "Bob"
-    fmt.Println("Hello " + name + ".")
+	fmt.Print("Enter your name: ")
+	fmt.Scanln(&name)
+	fmt.Println("Hello ", name)
 }
