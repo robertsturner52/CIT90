@@ -1,0 +1,9 @@
+Project ID:
+gofcc-1135
+Project number:
+550454710677
+
+Here is your client ID
+550454710677-d9dj8ko20m73m52medk0rgusrq7k6hv9.apps.googleusercontent.com
+Here is your client secret
+lapP1TC4lyiPRVn7dU-axqUn
