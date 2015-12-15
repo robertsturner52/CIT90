@@ -30,6 +30,7 @@ _testmain.go
 .idea/
 .idea/workspace.xml
 **/.idea/workspace.xml
+cd_change_directory.txt
 
 # mac hidden files
 .DS_Store

@@ -2,7 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff802e9a-21a4-4c2d-93fe-3c78b1550040" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\calculator\main.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\casting &amp; assertion\casting-assertion.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\cd change directory.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\cookies\getCookie.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\cookies\setCookie.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\functions\callback.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\functions\even-odd.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\functions\two-params.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\gostorage\app.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\gostorage\gcs.xxjson" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\gostorage\gofcc app\Google Cloud SDK Shell.lnk" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\gostorage\gofcc app\book-covers\a-clockwork-orange.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\gostorage\gofcc app\book-covers\frankenstein.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\gostorage\gofcc app\book-covers\heart-of-darkness.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\gostorage\gofcc app\book-covers\life-of-pi.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\gostorage\gofcc app\book-covers\the-hobbit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\gostorage\gofcc app\gofcc app.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\gostorage\gofcc app\gofcc.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\gostorage\storage.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\handler-interface\app.yaml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\handler-interface\main.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\hello\firstfile.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\helloworld\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\helloworld\.idea\helloworld.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\helloworld\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\helloworld\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\helloworld\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\helloworld\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\helloworld\main.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\loops\add-two-loop.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\loops\switch.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\maps\cheese.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\maps\main.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\maps\struct.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\maps\zero.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\memory-addresses\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\memory-addresses\.idea\libraries\GOPATH__memory_addresses_.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\memory-addresses\.idea\libraries\Go_SDK.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\memory-addresses\.idea\memory-addresses.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\memory-addresses\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\memory-addresses\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\memory-addresses\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\memory-addresses\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\memory-addresses\main.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\reference-types\referenceTypes.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\reference-types\referenceTypes2.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\secure-sessions\secureSessions.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\secure-sessions\sessions.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\slice-of-bytes\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\slice-of-bytes\.idea\libraries\GOPATH__slice_of_bytes_.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\slice-of-bytes\.idea\libraries\Go_SDK.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\slice-of-bytes\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\slice-of-bytes\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\slice-of-bytes\.idea\slice-of-bytes.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\slice-of-bytes\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\slice-of-bytes\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\slice-of-bytes\conv-to-str.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\slice-of-bytes\decbinhex.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\slice-of-bytes\slice.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\slices\make-a-map.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\slices\map-of-structs.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\slices\slice-of-friends.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\variadic\format.go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\variadic\variadic.go" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__CIT90_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__CIT90_.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CIT90.iws" />
@@ -54,10 +119,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="910" />
-    <option name="y" value="16" />
+    <option name="x" value="891" />
+    <option name="y" value="35" />
     <option name="width" value="680" />
-    <option name="height" value="767" />
+    <option name="height" value="793" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -198,22 +263,28 @@
       <option name="project" value="LOCAL" />
       <updated>1449552363136</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hello project">
+      <created>1449628113069</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1449628113069</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="910" y="16" width="680" height="767" extended-state="0" />
+    <frame x="891" y="35" width="680" height="793" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42990655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25981873" sideWeight="0.50623053" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23742138" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25981873" sideWeight="0.49376947" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -320,9 +391,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.037117902">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
