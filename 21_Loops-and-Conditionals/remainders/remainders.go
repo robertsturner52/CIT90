@@ -13,5 +13,5 @@ func main() {
 	fmt.Scan(&inp1)
 	fmt.Println("Enter another integer: ")
 	fmt.Scan(&inp2)
-	fmt.Println("The remainder of", inp1, "divided by", inp2, "is", findRemainder(inp1, inp2))
+	fmt.Println("The remainder of", inp1, "divided by", inp2, "is", findRemainder(inp1, inp2), ".")
 }
