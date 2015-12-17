@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff802e9a-21a4-4c2d-93fe-3c78b1550040" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23_fmt-package/Scanln.go" />
+    <list default="true" id="66a90841-26f0-47bc-90da-825dd57707f0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_datastore/appengine/app.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_datastore/appengine/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_datastore/appengine/templates/templates.gohtml" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\.idea\.name" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CIT90.iws" />
@@ -14,7 +18,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="true" />
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -24,13 +28,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Scanln.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/23_fmt-package/Scanln.go">
+      <file leaf-file-name="templates.gohtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/24_datastore/appengine/templates/templates.gohtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.85858583">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/24_datastore/appengine/app.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/24_datastore/appengine/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3762712">
+              <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
               <folding>
-                <element signature="e#14#26#0" expanded="true" />
+                <element signature="e#14#212#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -38,51 +62,13 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Go File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/helloworld/main.go" />
-        <option value="$PROJECT_DIR$/loops/main.go" />
-        <option value="$PROJECT_DIR$/loops/switch.go" />
-        <option value="$PROJECT_DIR$/hello.go" />
-        <option value="$PROJECT_DIR$/hello/firstfile.go" />
-        <option value="$PROJECT_DIR$/16_hello/firstfile.go" />
-        <option value="$PROJECT_DIR$/17_import/main.go" />
-        <option value="$PROJECT_DIR$/18_Variables-and-Scope/variables.go" />
-        <option value="$PROJECT_DIR$/18_Variables-and-Scope/variables2.go" />
-        <option value="$PROJECT_DIR$/18_Variables-and-Scope/names/zero-value.go" />
-        <option value="$PROJECT_DIR$/18_Variables-and-Scope/names/names.go" />
-        <option value="$PROJECT_DIR$/18_Variables-and-Scope/scope/scope.go" />
-        <option value="$PROJECT_DIR$/19_Constants_and_Pointers/constants/constants.go" />
-        <option value="$PROJECT_DIR$/19_Constants_and_Pointers/incrementer/incrementer.go" />
-        <option value="$PROJECT_DIR$/19_Constants_and_Pointers/memory-address/memory.go" />
-        <option value="$PROJECT_DIR$/19_Constants_and_Pointers/using-memory/usingmemory.go" />
-        <option value="$PROJECT_DIR$/19_Constants_and_Pointers/pointers/pointers.go" />
-        <option value="$PROJECT_DIR$/bitwise/bitwise.go" />
-        <option value="$PROJECT_DIR$/21_Loops-and-Conditionals/remainders/remainders.go" />
-        <option value="$PROJECT_DIR$/21_Loops-and-Conditionals/conditionals/conditionals.go" />
-        <option value="$PROJECT_DIR$/21_Loops-and-Conditionals/loops/loops.go" />
-        <option value="$PROJECT_DIR$/21_Loops-and-Conditionals/conditionals/conditionals2.go" />
-        <option value="$PROJECT_DIR$/21_Loops-and-Conditionals/conditionals/conditionals1.go" />
-        <option value="$PROJECT_DIR$/21_Loops-and-Conditionals/loops/loop3.go" />
-        <option value="$PROJECT_DIR$/21_Loops-and-Conditionals/loops/loop1.go" />
-        <option value="$PROJECT_DIR$/21_Loops-and-Conditionals/loops/loop2.go" />
-        <option value="$PROJECT_DIR$/22_variadic/variadic.go" />
-        <option value="$PROJECT_DIR$/22_variadic/slice-of-ints.go" />
-        <option value="$PROJECT_DIR$/23_fmt-package/sprint.go" />
-        <option value="$PROJECT_DIR$/23_fmt-package/Sprint-use.go" />
-        <option value="$PROJECT_DIR$/23_fmt-package/Sscan-use.go" />
-        <option value="$PROJECT_DIR$/23_fmt-package/Scanln.go" />
+        <option value="$PROJECT_DIR$/24_datastore/appengine/app.yaml" />
       </list>
     </option>
   </component>
@@ -94,10 +80,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="846" />
-    <option name="y" value="270" />
-    <option name="width" value="720" />
-    <option name="height" value="518" />
+    <option name="x" value="140" />
+    <option name="y" value="169" />
+    <option name="width" value="1022" />
+    <option name="height" value="654" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -150,7 +136,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="23_fmt-package" />
+              <option name="myItemId" value="24_datastore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appengine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -164,33 +154,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="20_bitwise" />
+              <option name="myItemId" value="24_datastore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appengine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gorilla/sessions" />
-    <property name="go.libraries.notification.had.been.shown" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="GO_FMT" value="false" />
-    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../../gorilla/sessions" />
+    <property name="last_opened_file_path" value="C:/go" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\18_Variables-and-Scope\scope" />
-      <recent name="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\18_Variables-and-Scope\variables" />
-      <recent name="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\18_Variables-and-Scope\names" />
-      <recent name="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\helloworld" />
+      <recent name="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\24_datastore\appengine" />
+      <recent name="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\24_datastore" />
     </key>
   </component>
   <component name="RunManager">
@@ -201,21 +192,21 @@
       <method />
     </configuration>
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="CIT90" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
+      <module name="" />
+      <working_directory value="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90" />
+      <filePath value="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90" />
       <kind value="FILE" />
       <method />
     </configuration>
     <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
-      <module name="CIT90" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
+      <module name="" />
+      <working_directory value="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90" />
+      <filePath value="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90" />
       <method />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="CIT90" />
-      <working_directory value="$PROJECT_DIR$/" />
+      <module name="" />
+      <working_directory value="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90" />
       <framework value="gotest" />
       <kind value="DIRECTORY" />
       <method />
@@ -244,424 +235,70 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <pass-parent-envs>true</pass-parent-envs>
-      <envs />
       <method />
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ff802e9a-21a4-4c2d-93fe-3c78b1550040" name="Default" comment="" />
-      <created>1441150348215</created>
+      <changelist id="66a90841-26f0-47bc-90da-825dd57707f0" name="Default" comment="" />
+      <created>1450380942061</created>
       <option name="number" value="Default" />
-      <updated>1441150348215</updated>
+      <updated>1450380942061</updated>
     </task>
-    <task id="LOCAL-00001" summary="Hello project">
-      <created>1449552363136</created>
-      <option name="number" value="00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1449552363136</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Hello project">
-      <created>1449628113069</created>
-      <option name="number" value="00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1449628113069</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Reordered folders">
-      <created>1450166792241</created>
-      <option name="number" value="00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1450166792241</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Reordered folders">
-      <created>1450248851150</created>
-      <option name="number" value="00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1450248851150</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Reordered folders">
-      <created>1450249784120</created>
-      <option name="number" value="00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1450249784120</updated>
-    </task>
-    <task id="LOCAL-00006" summary="constants &amp; incrementers">
-      <created>1450267451959</created>
-      <option name="number" value="00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1450267451959</updated>
-    </task>
-    <task id="LOCAL-00007" summary="memory">
-      <created>1450268359706</created>
-      <option name="number" value="00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1450268359706</updated>
-    </task>
-    <task id="LOCAL-00008" summary="using-memory">
-      <created>1450270206520</created>
-      <option name="number" value="00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1450270206520</updated>
-    </task>
-    <task id="LOCAL-00009" summary="using-memory">
-      <created>1450288215560</created>
-      <option name="number" value="00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1450288215560</updated>
-    </task>
-    <task id="LOCAL-00010" summary="bitwise example">
-      <created>1450294022530</created>
-      <option name="number" value="00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1450294022532</updated>
-    </task>
-    <task id="LOCAL-00011" summary="bitwise example rename">
-      <created>1450294237339</created>
-      <option name="number" value="00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1450294237339</updated>
-    </task>
-    <task id="LOCAL-00012" summary="bitwise example rename">
-      <created>1450303440219</created>
-      <option name="number" value="00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1450303440219</updated>
-    </task>
-    <task id="LOCAL-00013" summary="remainders">
-      <created>1450303560960</created>
-      <option name="number" value="00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1450303560960</updated>
-    </task>
-    <task id="LOCAL-00014" summary="loops">
-      <created>1450305142858</created>
-      <option name="number" value="00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1450305142858</updated>
-    </task>
-    <task id="LOCAL-00015" summary="conditionals">
-      <created>1450332770241</created>
-      <option name="number" value="00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1450332770241</updated>
-    </task>
-    <task id="LOCAL-00016" summary="conditionals">
-      <created>1450332833227</created>
-      <option name="number" value="00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1450332833227</updated>
-    </task>
-    <task id="LOCAL-00017" summary="loop examples">
-      <created>1450336988060</created>
-      <option name="number" value="00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1450336988060</updated>
-    </task>
-    <task id="LOCAL-00018" summary="variadic exercises">
-      <created>1450339654847</created>
-      <option name="number" value="00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1450339654847</updated>
-    </task>
-    <task id="LOCAL-00019" summary="func Sprint example">
-      <created>1450343156619</created>
-      <option name="number" value="00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1450343156619</updated>
-    </task>
-    <task id="LOCAL-00020" summary="fmt.Sprint use">
-      <created>1450344583329</created>
-      <option name="number" value="00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1450344583329</updated>
-    </task>
-    <task id="LOCAL-00021" summary="fmt.Sscan use">
-      <created>1450347870803</created>
-      <option name="number" value="00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1450347870803</updated>
-    </task>
-    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="846" y="270" width="720" height="518" extended-state="0" />
-    <editor active="false" />
+    <frame x="140" y="169" width="1022" height="654" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35630497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15345529" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902032" sideWeight="0.4903226" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.258" sideWeight="0.50623053" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.49527186" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41752577" sideWeight="0.5096774" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32695985" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902032" sideWeight="0.4903226" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.258" sideWeight="0.50623053" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.49527186" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32902032" sideWeight="0.5096774" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3919355" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32874015" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25856164" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hello project" />
-    <MESSAGE value="Reordered folders" />
-    <MESSAGE value="constants &amp; incrementers" />
-    <MESSAGE value="memory" />
-    <MESSAGE value="using-memory" />
-    <MESSAGE value="bitwise example" />
-    <MESSAGE value="bitwise example rename" />
-    <MESSAGE value="remainders" />
-    <MESSAGE value="loops" />
-    <MESSAGE value="conditionals" />
-    <MESSAGE value="loop examples" />
-    <MESSAGE value="variadic exercises" />
-    <MESSAGE value="func Sprint example" />
-    <MESSAGE value="fmt.Sprint use" />
-    <MESSAGE value="fmt.Sscan use" />
-    <option name="LAST_COMMIT_MESSAGE" value="fmt.Sscan use" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/16_hello/firstfile.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18195719">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_calculator/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_helloworld/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/go/src/fmt/print.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3323782">
-          <caret line="262" column="5" selection-start-line="262" selection-start-column="5" selection-end-line="262" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17_import/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.730659">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_Variables-and-Scope/variables/variables.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34412956">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_Variables-and-Scope/scope/scope.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42212188">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_Variables-and-Scope/names/names.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1918736">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19_Constants_and_Pointers/constants/constants.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19_Constants_and_Pointers/incrementer/incrementer.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19_Constants_and_Pointers/memory-address/memory.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19_Constants_and_Pointers/using-memory/usingmemory.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19_Constants_and_Pointers/pointers/pointers.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_Loops-and-Conditionals/remainders/remainders.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_Loops-and-Conditionals/conditionals/conditionals2.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_Loops-and-Conditionals/conditionals/conditionals1.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2320819">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_Loops-and-Conditionals/loops/loops.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_Loops-and-Conditionals/loops/loop3.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_Loops-and-Conditionals/loops/loop1.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="25" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_Loops-and-Conditionals/loops/loop2.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_variadic/variadic.go">
+    <entry file="file://$PROJECT_DIR$/24_datastore/appengine/templates/templates.gohtml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -669,78 +306,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_variadic/format.go">
+    <entry file="file://$PROJECT_DIR$/24_datastore/appengine/app.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22_variadic/slice-of-ints.go">
+    <entry file="file://$PROJECT_DIR$/24_datastore/appengine/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.3762712">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
           <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22_variadic/variadic.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20_bitwise/bitwise.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44074073">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/23_fmt-package/sprint.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/23_fmt-package/Sprint-use.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/23_fmt-package/Sscan-use.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19594595">
-          <caret line="12" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/23_fmt-package/Scanln.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85858583">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
+            <element signature="e#14#212#0" expanded="true" />
           </folding>
         </state>
       </provider>
