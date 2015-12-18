@@ -10,4 +10,5 @@ func main() {
 	custNum[3] = 4
 	custNum[4] = 5
 	fmt.Println(custNum)
+	fmt.Println(len(custNum))
 }
