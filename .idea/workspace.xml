@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a90841-26f0-47bc-90da-825dd57707f0" name="Default" comment="handwritten exercise series">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/32_Exercise Series/20.go" afterPath="$PROJECT_DIR$/32_Exercise Series/20.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/32_Exercise_Series/21.go" />
+      <change type="DELETED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\21.go" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\01.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/01.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\02.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/02.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\03.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/03.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\04.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/04.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\05.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/05.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\06.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/06.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\07.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/07.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\08.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/08.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\09.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/09.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\10.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/10.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\11.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/11.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\12.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/12.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\13.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/13.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\14.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/14.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\15.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/15.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\16.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/16.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\17.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/17.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\18.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/18.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\19.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/19.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\20.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/20.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\22.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/22.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\23.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/23.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\24.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/24.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\25.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/25.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\26.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/26.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\27.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/27.go" />
+      <change type="MOVED" beforePath="C:\Users\Bob\Documents\goworkspace\src\github.com\robertsturner52\CIT90\32_Exercise Series\28.go" afterPath="$PROJECT_DIR$/32_Exercise_Series/28.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CIT90.iws" />
@@ -24,11 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="20.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/32_Exercise Series/20.go">
+      <file leaf-file-name="21.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/32_Exercise_Series/21.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.96590906">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
@@ -36,12 +64,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="19.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/32_Exercise Series/19.go">
+      <file leaf-file-name="22.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/32_Exercise_Series/22.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.3601695">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,6 +136,8 @@
         <option value="$PROJECT_DIR$/32_Exercise Series/18.go" />
         <option value="$PROJECT_DIR$/32_Exercise Series/19.go" />
         <option value="$PROJECT_DIR$/32_Exercise Series/20.go" />
+        <option value="$PROJECT_DIR$/32_Exercise Series/21.go" />
+        <option value="$PROJECT_DIR$/32_Exercise_Series/22.go" />
       </list>
     </option>
   </component>
@@ -117,10 +149,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="738" />
-    <option name="y" value="53" />
-    <option name="width" value="846" />
-    <option name="height" value="581" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -173,7 +205,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="32_Exercise Series" />
+              <option name="myItemId" value="32_Exercise_Series" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -432,22 +464,28 @@
       <option name="project" value="LOCAL" />
       <updated>1450451316234</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="handwritten exercise series">
+      <created>1450452043038</created>
+      <option name="number" value="00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1450452043038</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="738" y="53" width="846" height="581" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24876237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12737642" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32885906" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44020355" sideWeight="0.5046481" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5466667" sideWeight="0.49535194" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15704697" sideWeight="0.49535194" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -777,7 +815,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/01.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/01.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
@@ -787,7 +825,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/02.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/02.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -797,7 +835,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/03.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/03.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8908297">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -805,7 +843,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/04.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/04.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6681223">
           <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
@@ -813,7 +851,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/05.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/05.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.796875">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
@@ -823,7 +861,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/06.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/06.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
@@ -833,7 +871,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/07.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/07.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6197917">
           <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
@@ -843,7 +881,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/08.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/08.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -851,7 +889,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/09.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/09.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
@@ -859,7 +897,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/10.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/10.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
@@ -867,7 +905,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/11.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/11.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
@@ -877,7 +915,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/12.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/12.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8854167">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -887,7 +925,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/13.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/13.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9558233">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
@@ -895,7 +933,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/15.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/15.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5466667">
           <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
@@ -903,7 +941,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/14.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/14.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7733333">
           <caret line="7" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -911,7 +949,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/16.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/16.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -921,7 +959,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/17.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/17.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7733333">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -929,7 +967,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/18.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/18.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9586466">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
@@ -939,17 +977,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/19.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/19.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.36255923">
           <caret line="9" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/32_Exercise Series/20.go">
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/20.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.96590906">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/21.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32_Exercise_Series/22.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3601695">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
